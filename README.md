@@ -78,9 +78,7 @@ For simplicity, we focus primarily on the robust case with bounded model error, 
 
 **Title:**  Uncertainty quantification from data 
 
-**Abstract:** This talk focuses on
-
-retrieving the model and the characterization of the model accuracy from data, which is a key step in the robust design. 
+**Abstract:** This talk focuses on retrieving the model and the characterization of the model accuracy from data, which is a key step in the robust design. 
 A variety of methods will be studied, highlighting their difference in setup (stochastic, robust, partial measurement), computational complexity, and theoretical guarantees (asymptotic vs. exact finite-sample). 
 This includes set-membership estimation, maximum likelihood estimation and
 Gaussian process models. 
